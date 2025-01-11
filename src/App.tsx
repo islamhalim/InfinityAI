@@ -128,7 +128,7 @@ function App() {
             </div>
             <div className="md:w-1/2 mt-10 md:mt-0">
               <img 
-                src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80"
+                src="/img/ai-generated-8540915_1280.jpg"
                 alt="AI Training"
                 className="rounded-lg shadow-2xl"
               />
