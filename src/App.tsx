@@ -132,6 +132,9 @@ function App() {
                 alt="AI Training"
                 className="rounded-lg shadow-2xl"
               />
+
+              <img src="/imgs/ai-generated-8540915_1280.png" alt="Stickman" width="24" height="39">
+              <img src="./imgs/ai-generated-8540915_1280.png" alt="Stickman" width="24" height="39">
             </div>
           </div>
         </div>
