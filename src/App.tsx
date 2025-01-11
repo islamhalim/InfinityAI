@@ -128,7 +128,7 @@ function App() {
             </div>
             <div className="md:w-1/2 mt-10 md:mt-0">
               <img 
-                src="./img/ai-generated-8540915_1280.jpg"
+                src="img/ai-generated-8540915_1280.jpg"
                 alt="AI Training"
                 className="rounded-lg shadow-2xl"
               />
